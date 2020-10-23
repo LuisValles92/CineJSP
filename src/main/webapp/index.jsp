@@ -203,72 +203,10 @@
                   </div>
                 </div>
               </div>
-              <div id="footcol2" class="three columns">
-                <div class="widget-area">
-                  <div class="widget-bottom">
-                    <ul>
-                      <li id="text-2" class="widget-container widget_text">
-                        <h2 class="widget-title"><span>walter zalazar</span></h2>
-                        <div class="textwidget">
-                          <ul class="sn">
-                            <li><a target="_blank" href="http://www.twitter.com/@wz_developer"><span class="icon-img" style="background-image:url(images/twitter.png)"></span></a></li>
-                            <li><a target="_blank" href="http://www.facebook.com/walterzalazarmdp"><span class="icon-img" style="background-image:url(images/fb.png)"></span></a></li>
-                            <li><a target="_blank" href="https://plus.google.com/u/0/117586809414029959427/posts"><span class="icon-img" style="background-image:url(images/googleplus.png)"></span></a></li>
-                            <li><a target="_blank" href="http://pinterest.com/zalwalter/"><span class="icon-img" style="background-image:url(images/pinterest.png)"></span></a></li>
-                          </ul>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div id="footcol3" class="three columns">
-                <div class="widget-area">
-                  <div class="widget-bottom">
-                    <ul>
-                      <li id="simple-flickr-photos-widget-2" class="widget-container Simple_Flickr_Photos">
-                        <h2 class="widget-title"><span>nazareno oviedo</span></h2>
-                        <!--simple flickr photos-->
-                        <style type="text/css">
-#flickr {text-align:center;}
-#flickr img {
-display:inline;
-margin:3px;
-padding:1px;
-border:1px solid #ccc;}
-</style>
-                        <div class="textwidget">
-                          <ul class="sn">
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/twitter.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/fb.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/googleplus.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/pinterest.png)"></span></a></li>
-                          </ul>
-                        </div>
-                        <!--simple flickr photos ends--></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div id="footcol4" class="three columns omega">
-                <div class="widget-area">
-                  <div class="widget-bottom">
-                    <ul>
-                      <li id="text-3" class="widget-container widget_text">
-                        <h2 class="widget-title"><span>facundo sirvent</span></h2>
-                        <div class="textwidget">
-                          <ul class="sn">
-                            <li><a target="_blank"  href=""><span class="icon-img" style="background-image:url(images/twitter.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/fb.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/googleplus.png)"></span></a></li>
-                            <li><a target="_blank" href=""><span class="icon-img" style="background-image:url(images/pinterest.png)"></span></a></li>
-                          </ul>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+             
+
+
+
               <div class="clear"></div>
             </footer>
           </div>
