@@ -73,7 +73,7 @@
         <div id="headertext">
           <div class="container">
             <div class="headertitle">
-              <h1 class="pagetitle">Bienvenido a Cinema UTN</h1>
+              <h1 class="pagetitle">Bienvenido a Cinema LUIS</h1>
               <span class="pagedesc">Aquí podras reservar de forma on-line tus peliculas preferidas</span> </div>
           </div>
         </div>
