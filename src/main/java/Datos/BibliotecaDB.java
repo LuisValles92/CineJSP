@@ -28,7 +28,7 @@ public class BibliotecaDB {
     {  
       //  Conexion = DriverManager.getConnection("jdbc:mysql://127.5.104.1:3306/cinemautnweb", "admin", "b_mFTvT_jZsT"); 
       //Conexion = DriverManager.getConnection("jdbc:mysql://127.5.104.1:3306/cinemautn", "admin", "jPy9upUMJ9p3");     
-        Conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/cinema", "root", "toor");        
+        Conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/cinema", "root", "");        
         Conexion.setAutoCommit(false);
     }
 

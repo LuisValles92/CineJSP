@@ -27,6 +27,7 @@ SET time_zone = "+00:00";
 --
 drop database if exists  cinema ;
 create database cinema;
+use cinema;
 
 CREATE TABLE IF NOT EXISTS `butacas` (
   `IdButaca` int(11) NOT NULL AUTO_INCREMENT,
